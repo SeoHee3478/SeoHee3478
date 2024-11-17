@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Seohee Jeon</h1>
-안녕하세요! 프론트엔드 주니어 개발자 전서희👩🏻‍💻 입니다!
+안녕하세요! 프론트엔드 개발자 전서희👩🏻‍💻 입니다!
 
 ## ⚒️ Tech Stack
 ### Frontend
@@ -9,7 +9,8 @@
 
 
 ## 📲 channel
-<a href="https://velog.io/@jeon0768" target="_blank"><img src="https://img.shields.io/badge/velog-54B489?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://seoya.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
 
 ## 📋 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoHee3478&show_icons=true&theme=radical)
