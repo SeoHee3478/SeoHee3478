@@ -67,7 +67,7 @@
 
 ## 📘 Study
 - 모던 자바스크립트 Deep Dive 북스터디
-- 티클모아태산 스터디
+- [티클모아 태산](https://brick-parrot-a90.notion.site/19-30-tea-code-56a48db565a246eb96899e68204fc216?source=copy_link): 발표자가 특정 기능 구현 코드를 완전히 익혀 실시간으로 작성하고, 참가자들이 직접 타이핑하며 코드를 체화하는 실전 중심 스터디
   
 <!--
 **SeoHee3478/SeoHee3478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
