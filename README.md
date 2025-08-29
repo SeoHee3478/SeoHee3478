@@ -94,6 +94,16 @@
 - 일관된 오류 처리 시스템으로 사용자 혼란 감소 및 개발 생산성 향상
 
 ----
+
+
+### 금방내방 | 인테리어 SNS 플랫폼
+**기간**: 2022.07 ~ 2022.08  
+**기술 스택**: `React` `JypeScript` `styled-components`    
+[🔗 Github](https://github.com/soon-my-room/soon_my_room)
+
+- 메인 피드 페이지, 검색 페이지, 프로필 이미지 컴포넌트, 하단 네브바 컴포넌트 구현
+
+----
 <br>
 <br>
 
@@ -106,6 +116,5 @@
 <br>
 
 ## 📘 Study
-- 모던 자바스크립트 Deep Dive 북스터디
 - [티클모아 태산](https://brick-parrot-a90.notion.site/19-30-tea-code-56a48db565a246eb96899e68204fc216?source=copy_link): 발표자가 특정 기능 구현 코드를 완전히 익혀 실시간으로 작성하고, 참가자들이 직접 타이핑하며 코드를 체화하는 실전 중심 스터디
   
